@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'web_scraper'
+    'web_scraper',
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
